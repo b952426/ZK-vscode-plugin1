@@ -26,6 +26,5 @@ Holding Cmd/Ctrl and click the file link.
 
 ** notice: autocomplete will not work if you have parsing error.
 
-This extension is inspired by [https://github.com/rogalmic/vscode-xml-complete]
-(https://github.com/rogalmic/vscode-xml-complete)
+This extension is inspired by [vscode-xml-complete](https://github.com/rogalmic/vscode-xml-complete)
 
