@@ -7,19 +7,19 @@ Element and attribute names will be suggested while typing.
 
 - Provide element suggestion
 
-[<img src="https://github.com/b952426/vscode-ZK-complete/blob/master/images/hint-providing-1.png" width="400" style="filter: blur(1px); " title="Click to show in browser"/>](https://github.com/b952426/vscode-ZK-complete/blob/master/images/hint-providing-1.png)
+[<img src="https://github.com/b952426/ZK-vscode-plugin/blob/master/images/hint-providing-1.png" width="400" style="filter: blur(1px); " title="Click to show in browser"/>](https://github.com/b952426/ZK-vscode-plugin/blob/master/images/hint-providing-1.png)
 
 - Provide attribute names suggestion
 
-[<img src="https://github.com/b952426/vscode-ZK-complete/blob/master/images/hint-providing-2.png" width="400" style="filter: blur(1px); " title="Click to show in browser"/>](https://github.com/b952426/vscode-ZK-complete/blob/master/images/hint-providing-2.png)
+[<img src="https://github.com/b952426/ZK-vscode-plugin/blob/master/images/hint-providing-2.png" width="400" style="filter: blur(1px); " title="Click to show in browser"/>](https://github.com/b952426/ZK-vscode-plugin/blob/master/images/hint-providing-2.png)
 
 - Auto-closing for currently edited tag
 
-[<img src="https://github.com/b952426/vscode-ZK-complete/blob/master/images/auto-closing.png" width="400" style="filter: blur(1px); " title="Click to show in browser"/>](https://github.com/b952426/vscode-ZK-complete/blob/master/images/auto-closing.png)
+[<img src="https://github.com/b952426/ZK-vscode-plugin/blob/master/images/auto-closing.png" width="400" style="filter: blur(1px); " title="Click to show in browser"/>](https://github.com/b952426/ZK-vscode-plugin/blob/master/images/auto-closing.png)
 
 - Fast autocomplete
 
-[<img src="https://github.com/b952426/vscode-ZK-complete/blob/master/images/autocomplete.png" width="400" style="filter: blur(1px); " title="Click to show in browser"/>](https://github.com/b952426/vscode-ZK-complete/blob/master/images/autocomplete.png)
+[<img src="https://github.com/b952426/ZK-vscode-plugin/blob/master/images/autocomplete.png" width="400" style="filter: blur(1px); " title="Click to show in browser"/>](https://github.com/b952426/ZK-vscode-plugin/blob/master/images/autocomplete.png)
 
 - Link to Java file
 Holding Cmd/Ctrl and click the file link.
