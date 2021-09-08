@@ -5,8 +5,12 @@ Element and attribute names will be suggested while typing.
 
 ## Features
 
-- Provide element and attribute names suggestion
+- Provide element suggestion
+
 [<img src="https://github.com/b952426/vscode-ZK-complete/blob/master/images/hint-providing-1.png" width="400" style="filter: blur(1px); " title="Click to show in browser"/>](https://github.com/b952426/vscode-ZK-complete/blob/master/images/hint-providing-1.png)
+
+- Provide attribute names suggestion
+
 [<img src="https://github.com/b952426/vscode-ZK-complete/blob/master/images/hint-providing-2.png" width="400" style="filter: blur(1px); " title="Click to show in browser"/>](https://github.com/b952426/vscode-ZK-complete/blob/master/images/hint-providing-2.png)
 
 - Fast autocomplete
